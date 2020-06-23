@@ -66,3 +66,4 @@ Each member of a team must be present in their project demo.
 Bonus: The lab instructors may recommend additional 2 points
 for an implementation which has the best performance and
 additional 1 point for the next best.
+   
